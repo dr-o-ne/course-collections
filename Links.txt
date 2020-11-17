@@ -1,0 +1,58 @@
+Performance
+https://www.toolsqa.com/data-structures/big-o-notation/
+
+Memory
+https://theburningmonk.com/2015/07/smallest-net-ref-type-is-12-bytes-or-why-you-should-consider-using-value-types
+https://theburningmonk.com/2015/07/beware-of-implicit-boxing-of-value-types/
+http://yonifedaeli.blogspot.com/2016/12/net-type-internals.html
+https://adamsitnik.com/Value-Types-vs-Reference-Types/
+
+BenchMarkdotNet
+https://dotnetcoretutorials.com/2017/12/04/benchmarking-net-core-code-benchmarkdotnet/
+
+!! - call the method twice
+!! - other applications might affect
+accurate and repeatable
+it takes a while
+
+
+
+General:
+https://app.pluralsight.com/library/courses/making-dotnet-applications-faster/table-of-contents
+
+Non-generic
+https://www.red-gate.com/simple-talk/blogs/some-non-generic-collections/
+https://dotnetcoretutorials.com/2020/02/03/arraylist-vs-list/
+
+
+
+Concurrent:
+https://habr.com/ru/post/473352/
+
+Dictionary
+https://habr.com/ru/post/198104/
+https://www.red-gate.com/simple-talk/blogs/the-net-dictionary/
+
+Concurrent Collections
+https://www.red-gate.com/simple-talk/blogs/inside-the-concurrent-collections/
+
+ConcurrentDictionary
+https://habr.com/ru/post/198104/
+https://www.red-gate.com/simple-talk/blogs/inside-the-concurrent-collections-concurrentdictionary/
+
+ConcurrentBag
+https://www.red-gate.com/simple-talk/blogs/inside-the-concurrent-collections-concurrentbag/
+
+ConcurrentQueue
+https://www.red-gate.com/simple-talk/blogs/inside-the-concurrent-collections-concurrentqueue/
+
+ConcurrentStack
+https://www.red-gate.com/simple-talk/blogs/inside-the-concurrent-collections-concurrentstack/
+
+
+
+
+
+
+Data Structures and algorithms
+https://subscription.packtpub.com/book/application_development/9781788833738/2

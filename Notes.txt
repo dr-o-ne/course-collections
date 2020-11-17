@@ -1,0 +1,24 @@
+
+
+
+Array
+
+use when:
+- multiple dimensions
+- performance optimization scenarious
+
+
+List
+
+- most commonly used
+- is a dynamic array / expandable
+- stronly typed
+
+as we'll see later its flexibility makes it easy to work with (c)
+
+
+
+LinkedList
+
+- doubly linked list
+- good for frequently insert or remove elements

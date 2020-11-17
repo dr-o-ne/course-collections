@@ -1,0 +1,61 @@
+System
+- Array
+
+System.Collections
+- ArrayList
+- BitArray -----
+- Hashtable
+- Queue
+- Stack
+- SortedList ?
+
+System.Collections.Specialized
+- BitVector32
+- HybridDictionary
+- ListDictionary
+- NameValueCollection (allow duplicates? https://stackoverflow.com/questions/3001108/namevaluecollection-vs-dictionarystring-string#:~:text=The%20NameValueCollection%20can%20have%20duplicate,the%20Linq%20ToDictionary()%20method.)
+- OrderedDictionary
+- StringCollection
+- StringDictionary
+
+System.Collections.Generic
+- List<T>
+- LinkedList<T>
+- Queue<T>
+- Stack<T>
+- Dictionary<T, V>
+- SortedSet<T>
+- SortedList<T, V>
+- SortedDictionary<T, V>
+- HashSet<T>
+
+System.Collections.ObjectModel
+- ObservableCollection<T>
+- ReadOnlyCollection<T>
+- ReadOnlyObservableCollection<T>
+- ReadOnlyDictionary<T, V>
+
+System.Collections.Concurrent
+- BlockingCollection<T> 
+- ConcurrentBag<T>
+- ConcurrentDictionary<T,T>
+- ConcurrentQueue<T>
+- ConcurrentStack<T>
+
+System.Collections.Immutable
+- ImmutableArray<T>
+- ImmutableDictionary<T, V>
+- ImmutableHashSet<T>
+- ImmutableInterlocked ???
+- ImmutableList<T>
+- ImmutableQueue<T>
+- ImmutableSortedDictionary<T, V>
+- ImmutableSortedSet<T>
+- ImmutableStack<T>
+
+System.Buffers ???
+- Array.Pool<T>
+
+StringBuilder
+
+Custom or ThirdParty
